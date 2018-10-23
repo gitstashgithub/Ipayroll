@@ -1,5 +1,5 @@
 {
-    "name": "ipayroll-sdk-php",
+    "name": "gitstashgithub/Ipayroll",
     "type": "library",
     "description": "iPayroll API v1 client",
     "homepage": "https://github.com/iPayroll/ipayroll-sdk-php",
